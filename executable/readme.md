@@ -1,7 +1,7 @@
 Instructions to build an executable from python code:
 
 Setup:
-  pip install pyinstaller
+	pip install pyinstaller
 
 To create executable:
 	cd to directory and then type:
