@@ -4,6 +4,6 @@
 - pip install pyinstaller
 
 **To create executable:**
-- cd to directory and then type:
+- From the command line (on Windows), <code>CD</code> to directory and then type:
 - <code> pyinstaller --onefile pythonScriptName.py </code>
-- pyinstaller --noconsole --icon=icon.ico --onefile pythonScriptName.py
+- <code>pyinstaller --noconsole --icon=icon.ico --onefile pythonScriptName.py</code>
