@@ -5,5 +5,5 @@
 
 **To create executable:**
 - cd to directory and then type:
-- pyinstaller --onefile pythonScriptName.py
+- <code> pyinstaller --onefile pythonScriptName.py </code>
 - pyinstaller --noconsole --icon=icon.ico --onefile pythonScriptName.py
