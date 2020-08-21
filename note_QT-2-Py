@@ -1,0 +1,6 @@
+A quick note on how to translate a design in QTDesigner to a python file:
+
+
+To create python file from QT Designer:
+	cd to directory
+	pyuic5 -x filename.ui -o pythonScriptName.py
